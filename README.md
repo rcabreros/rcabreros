@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! I am Ryan. 👋
+
+I am a tester who is eager to learn new things around testing.
+
+- 🌱 I’m currently learning more on docker.
+- 💬 You can ask me anything about testing or anything at all.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ryancabreros)
+
 
 <!--
 **rcabreros/rcabreros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
